@@ -34,7 +34,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Starting the Project
 
-For this assignment, you can find the `customer_segments` folder containing the necessary project files on the [Machine Learning projects GitHub](https://github.com/udacity/machine-learning), under the `projects` folder. You may download all of the files for projects we'll use in this Nanodegree program directly from this repo. Please make sure that you use the most recent version of project files when completing a project!
+For this assignment, you can find the `customer_segments` folder containing the necessary project files on the [Machine Learning projects GitHub](https://github.com/bootcamp-ai/ml-proyectos), under the `projects` folder. You may download all of the files for projects we'll use in this Nanodegree program directly from this repo. Please make sure that you use the most recent version of project files when completing a project!
 
 This project contains three files:
 
@@ -46,8 +46,6 @@ In the Terminal or Command Prompt, navigate to the folder containing the project
 
 ## Submitting the Project
 
-### Evaluation
-Your project will be reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/105/view" target="_blank">Creating Customer Segments project rubric</a>**. Be sure to review this rubric thoroughly and self-evaluate your project before submission. All criteria found in the rubric must be *meeting specifications* for you to pass.
 
 ### Submission Files
 When you are ready to submit your project, collect the following files and compress them into a single archive for upload. Alternatively, you may supply the following files on your GitHub Repo in a folder named `customer_segments` for ease of access:
@@ -59,7 +57,7 @@ Once you have collected these files and reviewed the project rubric, proceed to 
 ### I'm Ready!
 When you're ready to submit your project, click on the **Submit Project** button at the bottom of the page.
 
-If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **info@bootcampai.org**.
 
 ### What's Next?
 You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
